@@ -1,0 +1,7 @@
+T001:dhruba:class10:sectionA
+T002:Hemant kumar:class6:SectionA
+T003:Kalita:class8:SectionA
+T004:kkumar:Class12:C
+T005:Steve:Class10:SectionC
+T006:Kkay:Class10:SectionA
+T007:Sandeep T:Class6:Sectionc

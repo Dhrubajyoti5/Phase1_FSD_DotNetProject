@@ -1,0 +1,6 @@
+E:\Project-FSD\Project\FSD_Phase1_Dhruba\Phase1_FSDProjectSolution\FSDProject2_Teacher\bin\Debug\FSDProject2_Teacher.exe.config
+E:\Project-FSD\Project\FSD_Phase1_Dhruba\Phase1_FSDProjectSolution\FSDProject2_Teacher\bin\Debug\FSDProject2_Teacher.exe
+E:\Project-FSD\Project\FSD_Phase1_Dhruba\Phase1_FSDProjectSolution\FSDProject2_Teacher\bin\Debug\FSDProject2_Teacher.pdb
+E:\Project-FSD\Project\FSD_Phase1_Dhruba\Phase1_FSDProjectSolution\FSDProject2_Teacher\obj\Debug\FSDProject2_Teacher.csproj.CoreCompileInputs.cache
+E:\Project-FSD\Project\FSD_Phase1_Dhruba\Phase1_FSDProjectSolution\FSDProject2_Teacher\obj\Debug\FSDProject2_Teacher.exe
+E:\Project-FSD\Project\FSD_Phase1_Dhruba\Phase1_FSDProjectSolution\FSDProject2_Teacher\obj\Debug\FSDProject2_Teacher.pdb
